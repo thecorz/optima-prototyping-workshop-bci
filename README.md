@@ -48,6 +48,7 @@ Each task leverages AI techniques to process medical imaging data, providing ins
    ```bash
    git clone https://github.com/vivek231/optima-prototyping-workshop-bci.git
    cd optima-prototyping-workshop-bci
+   ```
 
 ## Installing Packages on HZDR HPC
 
@@ -60,6 +61,7 @@ To install the required packages on the HZDR High-Performance Computing (HPC) sy
 2. **Navigate to Your Project Directory**: Change to the directory where your `packages.sh` script is located.
    ```bash
    cd /path/to/your/project
+   ```
 
 **Open Terminal and run: `bash packages.sh`**
 
